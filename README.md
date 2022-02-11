@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @texkodex
-- 👀 I’m interested in blockchain application development
+- 👀 I’m interested in full stack, front end, blockchain, distributed system development 
 - 🌱 I’m currently learning dApps
 - 💞️ I’m looking to collaborate on web3
 - 📫 How to reach me texkodex@gmail.com
